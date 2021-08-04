@@ -1,7 +1,8 @@
 body {
   font-family: "Franklin Gothic Medium";
 }
-header {
+header,
+.instructions {
   text-align: center;
 }
 .container {
